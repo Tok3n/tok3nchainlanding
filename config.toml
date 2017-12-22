@@ -5,7 +5,7 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = 10
 theme = "hugo-universal-theme"
-title = "Universal"
+title = "Tok3n Chain"
 [Permalinks]
 blog = "/blog/:year/:month/:day/:filename/"
 [[menu.main]]
@@ -28,7 +28,7 @@ weight = 1
 [[menu.topbar]]
 name = "Email"
 pre = "<i class='fa fa-2x fa-envelope'></i>"
-url = "mailto:your@email.com"
+url = "mailto:angel@tok3n.com"
 weight = 4
 [[menu.topbar]]
 name = "Twitter"
@@ -46,18 +46,18 @@ pre = "<i class='fa fa-2x fa-github'></i>"
 url = "https://github.com/tok3n"
 weight = 1
 [params]
-about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+about_us = "<p>We are a mexican company focused in inovate in the security aplications.</p>"
 address = "<p><strong>Universal Ltd.</strong>\n        <br>13/25 New Avenue\n        <br>Newtown upon River\n        <br>45Y 73J\n        <br>England\n        <br>\n        <strong>Great Britain</strong>\n      </p>\n      "
-author = "DevCows"
-copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+author = "Tok3n"
+copyright = "Copyright (c) 2014 - 2018, Tok3n; all rights reserved."
 date_format = "January 2, 2006"
-defaultdescription = "Site template made by devcows using hugo"
-defaultkeywords = ["devows", "hugo", "go"]
-email = "your@email.com"
+defaultdescription = "Site template made by devcows and implemented by Tok3n using hugo"
+defaultkeywords = ["tok3n", "tok3napp", "blockchain", "tok3nchain", "blockchain", "hugo", "go"]
+email = "angel@tok3n.com"
 googlemapsapikey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
-latitude = "-12.043333"
+latitude = "19.4326003"
 logo = "img/logo.png"
-longitude = "-77.028333"
+longitude = "-99.1336971"
 style = "default"
 viewmorepostlink = "/blog/"
 [params.carousel]
@@ -85,7 +85,7 @@ subtitle = "We have worked with many clients and we always like to hear they com
 title = "Testimonials"
 [params.topbar]
 enable = true
-text = "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-envelope\"></i></a>\n      </p>\n      "
+text = "<p class=\"hidden-sm hidden-xs\">Contact us on angel@tok3n.com.</p>\n      <p class=\"hidden-md hidden-lg\"><a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-phone\"></i></a>\n      <a href=\"#\" data-animate-hover=\"pulse\"><i class=\"fa fa-envelope\"></i></a>\n      </p>\n      "
 [params.widgets]
 categories = true
 search = true
