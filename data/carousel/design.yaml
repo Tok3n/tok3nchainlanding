@@ -1,11 +1,18 @@
 ---
 weight: 3
-title: Design
+title: Choose your favorite provider
 description: |
   <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
+    <li>Public As a Service</li>
+    <li>Private As a Service</li>
+    <li>
+    Private cloud
+    <ul>
+      <li>Google Compute Engine</li>
+      <li>Azure</li>
+      <li>AWS</li>
+    </ul>
+    </li>
+    <li>Private on Premises</li>
   </ul>
 image: img/carousel/template-easy-customize.png
