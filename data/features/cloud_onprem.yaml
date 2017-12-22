@@ -1,5 +1,5 @@
 ---
 weight: 3
 name: Cloud and On Premises
-icon: fa fa-print
+icon: fa fa-google
 description: Run your BlockChain in Cloud Service as AWS, GCE and Azure or from your own Premises.
